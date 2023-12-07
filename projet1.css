@@ -1,0 +1,139 @@
+ nav{
+    background: #000; 
+    color: #fff; 
+    padding: 0.5em 0;
+    position: fixed; 
+    text-align: center;
+    width: 150%; 
+    top: 0; 
+    left: 0; 
+ }
+ nav  a{ 
+ padding: 0.5em 1em; 
+ color: #fff; 
+ text-decoration: none; 
+ height: 33px; 
+ }
+ nav  a:hover{ 
+    background: #fda500; 
+ }
+ #contenu{
+   margin: 40px 0 0 0; 
+ }
+ }
+.read{margin-top: -6px;}
+.text{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.text1{margin-left: 40px;}
+.text2{
+    margin-left: 40px;
+    display: inline ;
+    border: 2px solid black;
+    font-weight: bold;
+}            
+.middle{
+    text-align: center;
+    margin-top: -150px;
+    margin-right: -140px;
+}
+.middle_0{
+    font-size: 40px;
+    font-family: 'Arial',sans-serif;
+}
+.middle_1{
+    margin-top: -30px;
+    font-size: 20px;
+}
+.middle_2{
+   font-weight: bold;
+    font-size: 15px;
+    margin-top: 25px;
+    display: inline-block;
+    border: 1px solid black;
+}
+.img1{
+    margin-left: 80px;
+    margin-top: 100px;
+}
+
+.img2{
+    margin-left: 600px;
+    margin-top: -1000px;  
+}
+.img3{
+    margin-left: 115px;
+    margin-top: 20px;  
+    border-radius: 8px;
+}
+.img4{
+    margin-left: 250px;
+    margin-top: 20px;  
+    border-radius: 8px;
+}
+.img5{
+    margin-left: 300px;
+    margin-top: 20px;  
+    border-radius: 8px;
+}
+.title2{margin-left: 80px;}
+
+.txt{
+   margin-left: 100px;
+}
+#txt_img3{
+   margin-top: 120px;
+}
+.txt3{
+   margin-left: 15px;
+}
+.txt4{
+   margin-left: 15px;
+}
+#txt_img4{
+   margin-left: 500px;
+   margin-top: -200px;
+}
+#txt_img5{
+   margin-left: 980px;
+   margin-top: -200px;
+}
+#div_part2{
+   margin-left: 40px;
+}
+#foot1{
+   margin-left: 30px;
+   margin-top: 50px;
+}
+#foot1_1{
+   margin-left: 300px;
+   margin-top: 50px;
+}
+.foot2{
+   text-align: center;
+   margin-left: 300px;
+   margin-top: -33px;
+}
+.foot2_1{
+   font-size: 18px;
+   font-weight: bold;
+   text-align: center;
+   margin-left: -100px;
+}
+.foot2_2{
+   font-size: 35px;
+   margin-left: 50px;
+   text-decoration: none;
+}
+.foot2_3{
+  font-size: 15px; 
+  margin-left: -35px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+
+
+
+
